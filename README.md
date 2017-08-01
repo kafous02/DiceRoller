@@ -1,2 +1,2 @@
-# Test
-This is a test
+# DiceRoller
+A java dice roller with a GUI (in progress)
